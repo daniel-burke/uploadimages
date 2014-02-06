@@ -15,7 +15,7 @@
                         false, //  upload images only
                         $folder_thum, // Folder thumbnails
                         200, // width Thumbnail
-                        150, // height Thumbnail
+                        150 // height Thumbnail
                         );
 *
 *  - $upload->error();  // Error checking
